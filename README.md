@@ -14,11 +14,6 @@ Together, these projects explore the use of machine learning to address key chal
 
 
 
-## Badges
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-
 ## Authors
 
-- [@Raghunandan](https://github.com/RGS-AI)
+- [@Raghunandan](https://github.com/Mohit260805)
