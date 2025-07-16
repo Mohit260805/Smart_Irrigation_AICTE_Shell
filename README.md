@@ -16,4 +16,4 @@ Together, these projects explore the use of machine learning to address key chal
 
 ## Authors
 
-- [@Raghunandan](https://github.com/Mohit260805)
+- [@MohitGaur](https://github.com/Mohit260805)
